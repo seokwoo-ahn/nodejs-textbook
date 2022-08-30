@@ -3,3 +3,7 @@ function helloWorld() {
 }
 
 helloWorld()
+
+module.exports = {
+    data: "hello"
+}
